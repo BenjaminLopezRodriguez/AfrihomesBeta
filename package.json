@@ -24,6 +24,7 @@
   "dependencies": {
     "@architect/architect": "^10.16.3",
     "@architect/functions": "^7.0.0",
+    "@aws-sdk/client-apigatewaymanagementapi": "^3.600.0",
     "@paralleldrive/cuid2": "^2.2.2",
     "@remix-run/architect": "^2.9.2",
     "@remix-run/css-bundle": "^2.9.2",
