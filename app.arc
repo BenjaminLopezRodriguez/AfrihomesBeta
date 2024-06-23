@@ -1,5 +1,5 @@
 @app
-grunge-stack-template
+afrihomes-611d
 
 @aws
 runtime nodejs18.x
